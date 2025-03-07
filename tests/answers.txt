@@ -1,0 +1,100 @@
+-- Example --
+1A
+2B
+3B
+4C
+
+-- Example 2 -- 
+1B
+2K
+3D
+4C
+5F
+6E
+7J
+8I
+9B
+10M
+11E
+12C
+13A
+14C
+15F
+16D
+17F
+18A
+19G
+20L
+21K
+22D
+23D
+24G
+25B
+26B
+27E
+28A
+29I
+30E
+31E
+32G
+33C
+34F
+35L
+36K
+37H
+38L
+39H
+40M
+41K
+42J
+43I
+44H
+45G
+46J
+47H
+48I
+49L
+50A
+
+-- 1 --
+1A
+2B
+3B
+4A
+5B
+6A
+
+-- 2 -- (Fully connected)
+1A
+2B
+3C
+4D
+5E
+
+-- 3 -- (Star shaped)
+1A
+2B
+3B
+4B
+5B
+
+-- 4 -- (Chain shaped)
+1B
+2A
+3B
+4A
+
+-- 5 -- (Single node)
+1A
+
+-- 6 -- (Invalid input)
+Error message
+
+-- 7 -- (Disconnected)
+1A
+2B
+3A
+4B
+
+-- 8 -- (More than 26 colours)
+Error message
